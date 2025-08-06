@@ -1,0 +1,16 @@
+﻿key_ky_han_goc;ma_ky_han;ten_ky_han;tu_ngay;den_ngay;nhom_ky_han;nhom_ky_han_2;loai_ky_han;sort_ky_han
+1;Không kỳ hạn;Không kỳ hạn;0;0;Không kỳ hạn;Không kỳ hạn;Ngắn hạn;1
+2;3 tháng;3 tháng;1;91;1 - 3 Tháng;1 - 3 Tháng;Ngắn hạn;2
+3;6 tháng;6 tháng;92;182;3 - 6 Tháng;3 - 6 Tháng;Ngắn hạn;3
+4;9 tháng;9 tháng;183;273;6 - 9 Tháng;6 - 12 Tháng;Ngắn hạn;4
+5;1 năm;1 năm;274;365;9 - 12 Tháng;6 - 12 Tháng;Ngắn hạn;5
+6;1 năm rưỡi;1 năm rưỡi;366;547;12 - 18 Tháng;Trên 12 Tháng;Dài hạn;6
+7;2 năm;2 năm;548;912;18 - 24 Tháng;Trên 12 Tháng;Dài hạn;7
+8;3 năm;3 năm;913;1642;Trên 24 Tháng;Trên 12 Tháng;Dài hạn;8
+9;5 năm;5 năm;1643;2007;Trên 24 Tháng;Trên 12 Tháng;Dài hạn;8
+10;7 năm;7 năm;2008;2372;Trên 24 Tháng;Trên 12 Tháng;Dài hạn;8
+11;10 năm;10 năm;2373;3287;Trên 24 Tháng;Trên 12 Tháng;Dài hạn;8
+12;15 năm;15 năm;3288;4015;Trên 24 Tháng;Trên 12 Tháng;Dài hạn;8
+13;20 năm;20 năm;4016;6945;Trên 24 Tháng;Trên 12 Tháng;Dài hạn;8
+14;30 năm;30 năm;6946;10592;Trên 24 Tháng;Trên 12 Tháng;Dài hạn;8
+15;50 năm;50 năm;10593;17884;Trên 24 Tháng;Trên 12 Tháng;Dài hạn;8
