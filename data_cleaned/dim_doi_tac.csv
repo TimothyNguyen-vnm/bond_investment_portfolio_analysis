@@ -1,0 +1,46 @@
+﻿Mã đối tác;Tên Viết Tắt;Loại đối tác;Tên ngắn;Tên Ngân hàng;Mã CK;Sàn;Ghi chú
+1;VCB;Tổ chức;Vietcombank;Ngân hàng TMCP Ngoại thương Việt Nam;VCB;HOSE;
+2;MBB;Tổ chức;MBBank;Ngân hàng TMCP Quân đội;MBB;HOSE;
+3;ACB;Tổ chức;ACB;Ngân hàng TMCP Á Châu;ACB;HOSE;
+4;TCB;Tổ chức;Techcombank;Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank);TCB;HOSE;
+5;CTG;Tổ chức;Vietinbank;Ngân hàng TMCP Công thương Việt Nam;CTG;HOSE;
+6;BID;Tổ chức;BIDV;Ngân hàng TMCP Đầu tư và phát triển Việt Nam;BID;HOSE;
+7;HDB;Tổ chức;HDBank;Ngân hàng TMCP Phát triển TP Hồ Chí Minh (HDBank);HDB;HOSE;
+8;OCB;Tổ chức;Oricombank;Ngân hàng TMCP Phương Đông (OCB);OCB;HOSE;
+9;MSB;Tổ chức;MaritimeBank;Ngân hàng TMCP Hàng Hải Việt Nam (MSB);MSB;HOSE;
+10;SSB;Tổ chức;SeABank;Ngân hàng TMCP Đông Nam Á (SeABank);SSB;HOSE;
+11;TPB;Tổ chức;TPBank;Ngân hàng TMCP Tiên Phong;TPB;HOSE;
+12;ABB;Tổ chức;ABBank;Ngân hàng TMCP An Bình;ABB;UPCoM;
+13;OceanBank;Tổ chức;OceanBank;Ngân hàng Thương mại TNHH MTV Đại Dương;-;-;Chưa niêm yết
+14;VPB;Tổ chức;VPBank;Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank);VPB;HOSE;
+15;EIB;Tổ chức;EximBank;Ngân hàng TMCP Xuất Nhập khẩu Việt Nam (Eximbank);EIB;HOSE;
+16;NAB;Tổ chức;NamABank;Ngân hàng TMCP Nam Á;NAB;UPCoM;
+17;SHB;Tổ chức;SHB;Ngân hàng TMCP Sài Gòn (SCB);-;-;Chưa niêm yết
+18;VIB;Tổ chức;VIBBank;Ngân hàng TMCP Quốc tế Việt Nam (VIB);VIB;HOSE;
+19;VRB;Tổ chức;Ngân hàng Việt Nga;Ngân hàng Liên doanh Việt - Nga (VRB);-;-;Chưa niêm yết
+20;BAB;Tổ chức;BacABank;Ngân hàng TMCP Bắc Á;BAB;HNX;
+21;LPB;Tổ chức;LienViet Post Bank;Ngân hàng TMCP Bưu điện Liên Việt (LienVietPostBank);LPB;HOSE;
+22;Agribank;Tổ chức;Agribank;Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam (Agribank);-;-;Chưa niêm yết
+23;KSB;Tổ chức;KSB;CTCP Khoáng Sản và Xây Dựng Bình Dương;KSB;HOSE;
+24;SHI;Tổ chức;SHI;CTCP Quốc Tế Sơn Hà;SHI;HOSE;
+25;HBC;Tổ chức;HBC;CTCP Xây Dựng Hòa Bình;HBC;HOSE;
+26;SAM;Tổ chức;CTCP SAM Holdings;CTCP SAM Holdings;SAM;HOSE;
+27;TCBS;Tổ chức;TCBS;CTCP Chứng khoán Kỹ Thương (Techcom Securities);TCI;HOSE;
+28;SBT;Tổ chức;SBT;CTCP Thành Thành Công - Biên Hòa;SBT;HOSE;
+29;TTC IZ;Tổ chức;TTC IZ;CTCP Khu công nghiệp Thành Thành Công;TTZ;HNX;
+30;BIBBank;Tổ chức;BIBBank;BIBBank;-;-;Chưa niêm yết
+31;HPL;Tổ chức;HPL;CTCP Đầu tư và Kinh doanh Bất Động sản Hải Phát;HPX;HOSE;
+32;POF;Tổ chức;POF;Quỹ Đầu tư Cơ hội PVI;POF;UPCoM;
+33;SLI;Tổ chức;SKLI;Son Kim Land Investment;-;-;Chưa niêm yết
+34;SGI;Tổ chức;SG3 Group;Công ty Cổ phần Đầu tư Phát triển Sài Gòn 3 Group;-;-;Chưa niêm yết
+35;PAC;Tổ chức;PINACO;Công ty Cổ phần Pin Ắc Quy Miền Nam;PAC;HOSE;
+36;VCI;Tổ chức;Bản Việt VCSC;CTCP Chứng Khoán Bản Việt (VietCapital Securities);VCI;HOSE;
+37;VND;Tổ chức;VNDirect;CTCP Chứng Khoán VNDirect;VND;HOSE;
+38;HSC;Tổ chức;HSC;CTCP Chứng khoán Hồ Chí Minh (HSC);HCM;HOSE;
+39;MBS;Tổ chức;MBS;CTCP Chứng Khoán MB (MBS);MBS;HNX;
+40;MAS;Tổ chức;Mirae Asset;Công ty TNHH Chứng Khoán Mirae Asset (Việt Nam);-;-;Chưa niêm yết
+41;SSI;Tổ chức;SSI;CTCP Chứng Khoán SSI;SSI;HOSE;
+42;BCM;Tổ chức;Becamex;Tổng Công ty Đầu tư & Phát triển Công nghiệp (Becamex IDC);BCM;HOSE;
+43;PC1;Tổ chức;PC1;Công ty cổ phần Tập đoàn PC1;PC1;HOSE;
+44;VLPC;Tổ chức;VLPC;CTCP Điện Việt Lào;VLP;UPCoM;
+45;PVMR;Tổ chức;PVMR;Tổng Công ty Cổ phần Bảo dưỡng;;;
